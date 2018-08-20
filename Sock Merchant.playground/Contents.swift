@@ -2,7 +2,6 @@
 // Problem https://www.hackerrank.com/challenges/sock-merchant/problem
 
 func sockMerchant(n: Int, ar: [Int]) -> Int {
-    
     var socks = [Int:Int]()
     var socksCount = 0
     

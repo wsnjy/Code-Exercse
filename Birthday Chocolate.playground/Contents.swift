@@ -5,7 +5,6 @@
 func birthday(s: [Int], d: Int, m: Int) -> Int {
     
     var count = 0
-    var lastIndex = 0
     
     if m > s.count{
         return 0
